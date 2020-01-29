@@ -1,4 +1,4 @@
-<h1> Questão 1. Qual é o primeiro termos no arquivo part-r-00000 e quantas vezes ele ocorre? </h1>
+<h2> Questão 1. Qual é o primeiro termos no arquivo part-r-00000 e quantas vezes ele ocorre? </h2>
 <p>Termo: a-breeding</p>
 <p>Quantidade: 1</p>
 
