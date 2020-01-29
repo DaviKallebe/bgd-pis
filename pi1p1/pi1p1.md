@@ -1,21 +1,21 @@
 <h3> Questão 1. Qual é o primeiro termos no arquivo part-r-00000 e quantas vezes ele ocorre? </h3>
-**Termo: a-breeding**
-**Quantidade: 1**
+<p>Termo: a-breeding</p>
+<p>Quantidade: 1</p>
 
-Questão 2. Qual é o terceiro termo antes do último (antepenultimo?) em part-r-00004 e quantas vezes ele ocorre?
-Termo: zed
-Quantidade: 1
+<h3> Questão 2. Qual é o terceiro termo antes do último (antepenultimo?) em part-r-00004 e quantas vezes ele ocorre? </h3>
+<p>Termo: zed</p>
+<p>Quantidade: 1</p>
 
-Questão 3. Quantos termos únicos existem?
+<h3> Questão 3. Quantos termos únicos existem? </h3>
 
 
-Questão 4. Qual é o primeiro termos no arquivo part-r-00000 e quantas vezes ele ocorre ?
-Termo: aaron
-Quantidade: 96
+<h3> Questão 4. Qual é o primeiro termos no arquivo part-r-00000 e quantas vezes ele ocorre ? </h3>
+<p>Termo: aaron</p>
+<p>Quantidade: 96</p>
 
-Questão 5. Qual é o terceiro termo antes do último (antepenultimo?) em part-r-00004 e quantas vezes ele ocorre ?
-Termo: zed
-Quantidade: 1
+<h3> Questão 5. Qual é o terceiro termo antes do último (antepenultimo?) em part-r-00004 e quantas vezes ele ocorre ? </h3>
+<p>Termo: zed</p>
+<p>Quantidade: 1</p>
 
-Questão 6. Quantos termos únicos existem?
+<h3> Questão 6. Quantos termos únicos existem? </h3>
 
