@@ -52,7 +52,7 @@ def question_c(registers, Id = '6'):
 
 def question_d(registers):
     groups_and_sales = registers.map(lambda reg: (reg[3][1], (reg[4][1], reg[0][1], reg[1][1], reg[2][1])))\
-        .filter(lambda value: value[1][0] != '0')\
+        .filter(lambda value: value[1][0] != '0' and value[1][0] != '-1')\
         .reduceByKey(lambda va, vb: va if int(va[0]) < int(vb[0]) else vb)
 
     groups_and_sales_list = groups_and_sales.collect()
