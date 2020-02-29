@@ -125,8 +125,8 @@ def question_b(database, Id = 6):
     print("Produto Id:", product["Id"], "ASIN:", product["ASIN"], "salesrank:", product["salesrank"], "\n")
     #mostra os similares com rank melhor 
     for similar in similars:
-        #if similar["'salesrank"] < product["salesrank"] and similar["'salesrank"] > 0:
-        print("ASIN", similar['ASIN'], "salesrank", similar["salesrank"])
+        if similar["salesrank"] < product["salesrank"] and similar["salesrank"] > 0:
+            print("ASIN", similar['ASIN'], "salesrank", similar["salesrank"])
 
     print("\n\n")
 
